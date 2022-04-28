@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,9 +36,10 @@ body {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
+    justify-content: flex-end;
 }
 
 a {
@@ -78,7 +79,7 @@ p {
 .benefits {
     margin-right: 20px;
     padding: 20px;
-    padding-bottom: 10px;
+    padding-bottom: 50px;
     clear: both;
     float: right;
     width: 20%;
@@ -108,11 +109,13 @@ p {
 }
 */
 
-.benefit-lead h3 {
+.benefit-lead h3, 
+.benefit-brand h3, 
+.benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -122,6 +125,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+*/
 
 .benefit-lead img {
     display: block;
