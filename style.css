@@ -20,6 +20,7 @@ body {
     font-size: 48px;
 }
 
+/* SEO in Horiseon <span> icon */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -32,25 +33,30 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+/* Unordered List */
+.header nav ul {
     list-style-type: none;
 }
 
+/* Nav List Alignment */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
     justify-content: flex-end;
 }
 
+/* Nav links color */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Paragraph content font size */
 p {
     font-size: 16px;
 }
 
+/* Background Img Size/Position */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +65,7 @@ p {
     background-position: center;
 }
 
+/* Content img Position */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,13 +76,14 @@ p {
     margin-left: 25px;
 }
 
+/* Main Content Settings */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-
+/* Side Panel settings */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -89,7 +97,7 @@ p {
     color: white;
 }
 
-/* Rename Class 
+/* Consolidate Class - oops
 
 .benefit-lead, 
 .benefit-brand,
@@ -109,12 +117,14 @@ p {
 }
 */
 
+/* Side column sections settings */
 .benefit-lead h3, 
 .benefit-brand h3, 
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
 /*
 .benefit-brand h3 {
     margin-bottom: 10px;
@@ -127,12 +137,16 @@ p {
 }
 */
 
-.benefit-lead img {
+/* Side column img settings */
+.benefit-lead img, 
+.benefit-brand img,
+.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*
 .benefit-brand img {
     display: block;
     margin: 10px auto;
@@ -144,7 +158,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* Rename class */
+*/
+
+/* Main Content <div> settings */
 .search-engine-optimization, 
 .online-reputation-management,
 .social-media-marketing {
@@ -175,10 +191,14 @@ p {
 }
 */
 
-.search-engine-optimization img {
+/* Main Content Img Height */
+.search-engine-optimization img, 
+.online-reputation-management img,
+.social-media-marketing img {
     max-height: 200px;
 }
 
+/*
 .online-reputation-management img {
     max-height: 200px;
 }
@@ -186,12 +206,17 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+*/
 
-.search-engine-optimization h2 {
+/* Main Content Heading Settings */
+.search-engine-optimization h2, 
+.online-reputation-management h2,
+.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -201,7 +226,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+*/ 
 
+/* Footer Settings */
 .footer {
     padding: 30px;
     clear: both;
