@@ -8,5 +8,6 @@ This is a sample Marketing Platform Template for Horiseon
 * Heading Alignment + Nav Links
 * Add Title
 
-![Horiseon Image](screenshot.png)
+[Horiseon Marketing Solutions Webpage](https://jasminedaniels.github.io/homework-week1/)
 
+![Horiseon Image](screenshot.png)
