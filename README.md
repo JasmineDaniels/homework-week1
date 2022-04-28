@@ -1,11 +1,12 @@
-#Horiseon Marketing Solutions 
+# Horiseon Marketing Solutions 
 
 This is a sample Marketing Platform Template for Horiseon
 
-Tasks Completed:
+**Tasks Completed:**
 * Semantic HTML Elements + Indentation
 * Alt Attribute ADA Standards
 * Heading Alignment + Nav Links
 * Add Title
 
+![Horiseon Image](screenshot.png)
 
