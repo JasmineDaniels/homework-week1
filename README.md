@@ -12,3 +12,4 @@ This is a sample Marketing Platform Template for Horiseon MS
 [Horiseon Marketing Solutions Webpage](https://jasminedaniels.github.io/homework-week1/)
 
 ![Horiseon Image](screenshot.png)
+![Horiseon Image](screenshot-2.png)
